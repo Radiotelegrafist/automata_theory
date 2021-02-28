@@ -1,2 +1,2 @@
 # automata_theory
-yes portugal
+Done by MF-21 student, Chystiakov Yaroslav
